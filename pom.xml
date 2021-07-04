@@ -9,6 +9,10 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>springboot-springsecurity-oauth2-authorization-server</module>
+        <module>oauth2-authorization-server</module>
+        <module>oauth2-resource</module>
+        <module>sso-auth-server</module>
+        <module>sso-auth-client01</module>
+        <module>sso-auth-client02</module>
     </modules>
 </project>
