@@ -1,10 +1,10 @@
-package com.springcli.rocketmqconsumer;
+package com.springcli.kafkaproducer;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RocketmqconsumerApplicationTests {
+class KafkaProducerApplicationTests {
 
     @Test
     void contextLoads() {
